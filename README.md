@@ -100,12 +100,13 @@ I build and design **scalable, reliable, and secure cloud platforms** using AWS,
 
 # 📫 Contact Me
 
+- 🌍 [sahil.work](https://sahil.work)
+- ✉️ [hello@sahil.work](mailto:hello@sahil.work)
+- 🐦 [gh05t_r00t](https://x.com/gh05t_r00t)
+
 * 💼 Open to Cloud, SRE, and platform engineering roles
 * 🌐 Happy to collaborate on Kubernetes, DevOps, or cloud-native projects
 
-- 🌍 Website: [sahil.work](https://sahil.work)
-- ✉️ Email: [hello@sahil.work](mailto:hello@sahil.work)
-- 🐦 X: [gh05t_r00t](https://x.com/gh05t_r00t)
 ---
 
 > *“Share what you learn. Keep iterating and stay curious.”*
