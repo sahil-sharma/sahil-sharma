@@ -6,7 +6,7 @@ I build and design **scalable, reliable, and secure cloud platforms** using AWS,
 
 ## About Me
 
-* Senior Cloud Engineer with experience in **AWS and Azure**
+* Cloud Engineer with experience in **AWS and Azure**
 * Work with **Kubernetes**, GitOps, and cloud-native architectures
 * Handle about **security, identity (Keycloak), secrets management, and SSO**
 * Provide with **observability**: Prometheus, Grafana, Loki, Tempo, OTEL
@@ -78,7 +78,7 @@ I build and design **scalable, reliable, and secure cloud platforms** using AWS,
 ---
 
 ## **🌐 Networking & Web**
-
+![Istio](https://img.shields.io/badge/Istio-154DA9?style=for-the-badge&logo=istio&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-1155CB?style=for-the-badge&logo=kong&logoColor=white)
 
