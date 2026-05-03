@@ -13,6 +13,7 @@ I build and design **scalable, reliable, and secure cloud platforms** using AWS,
 * Deploy with **automation, CI/CD, pipelines, deployments**
 * Design **distributed systems**, highly available services, and resilient infrastructure
 * Active learner in **Service mesh, distributed tracing, and platform engineering**
+* Implement **Resilience Engineering** via Litmus Chaos
 
 ---
 
@@ -27,6 +28,7 @@ I build and design **scalable, reliable, and secure cloud platforms** using AWS,
 
 ## **💻 Programming & Scripting**
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
@@ -65,6 +67,7 @@ I build and design **scalable, reliable, and secure cloud platforms** using AWS,
 ![Loki](https://img.shields.io/badge/Loki-4A8CFF?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![Tempo](https://img.shields.io/badge/Tempo-FFC107?style=for-the-badge\&logo=grafana\&logoColor=black)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge\&logo=opentelemetry\&logoColor=white)
+![Litmus Chaos](https://img.shields.io/badge/Litmus_Chaos-5511BB?style=for-the-badge&logo=litmuschaos&logoColor=white)
 
 ---
 
